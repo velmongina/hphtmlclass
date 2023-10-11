@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid coral;
+    padding: 20px;
+    margin: 10px;
+}
+body{
+    background-color: blue;
+}
+thead{
+    font-family: "Colonna MT";
+    text-align: justify;
+    font-size: 30px;
+    background-color: coral;
+}
+h2{
+    font-family:"Script MT Bold";
+    color:red;
+    text-align: center;
+}
